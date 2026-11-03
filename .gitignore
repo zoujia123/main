@@ -1,0 +1,10 @@
+.env
+.env.*
+!.env.example
+__pycache__/
+.codegraph/
+*.log
+/logs/
+/logs_*
+/data_backup*/
+/data_filter_manifest_*.json

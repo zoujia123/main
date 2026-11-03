@@ -1,0 +1,65 @@
+[
+  {
+    "agents": [
+      {
+        "agent_name": "Legal Research Agent",
+        "agent_description": "Searches legal databases for relevant case laws, statutes, and precedents."
+      },
+      {
+        "agent_name": "Document Drafting Agent",
+        "agent_description": "Generates legal documents, contracts, and agreements based on user input."
+      },
+      {
+        "agent_name": "Case Analysis Agent",
+        "agent_description": "Summarizes case details and provides insights into legal arguments and possible outcomes."
+      },
+      {
+        "agent_name": "Compliance Check Agent",
+        "agent_description": "Ensures legal documents and contracts comply with local and international regulations."
+      }
+    ],
+    "user query": "Find relevant precedents for a workplace harassment case, summarize their outcomes, and draft a memo about it."
+  },
+  {
+    "agents": [
+      {
+        "agent_name": "Legal Research Agent",
+        "agent_description": "Searches legal databases for relevant case laws, statutes, and precedents."
+      },
+      {
+        "agent_name": "Document Drafting Agent",
+        "agent_description": "Generates legal documents, contracts, and agreements based on user input."
+      },
+      {
+        "agent_name": "Case Analysis Agent",
+        "agent_description": "Summarizes case details and provides insights into legal arguments and possible outcomes."
+      },
+      {
+        "agent_name": "Compliance Check Agent",
+        "agent_description": "Ensures legal documents and contracts comply with local and international regulations."
+      }
+    ],
+    "user query": "Generate a non-disclosure agreement, analyze legal risks, and check international compliance."
+  },
+  {
+    "agents": [
+      {
+        "agent_name": "Legal Research Agent",
+        "agent_description": "Searches legal databases for relevant case laws, statutes, and precedents."
+      },
+      {
+        "agent_name": "Document Drafting Agent",
+        "agent_description": "Generates legal documents, contracts, and agreements based on user input."
+      },
+      {
+        "agent_name": "Case Analysis Agent",
+        "agent_description": "Summarizes case details and provides insights into legal arguments and possible outcomes."
+      },
+      {
+        "agent_name": "Compliance Check Agent",
+        "agent_description": "Ensures legal documents and contracts comply with local and international regulations."
+      }
+    ],
+    "user query": "Retrieve recent jurisdiction-specific changes to corporate tax laws, then generate a report."
+  }
+]
